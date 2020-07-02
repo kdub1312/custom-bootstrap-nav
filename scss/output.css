@@ -1,3 +1,13 @@
+header ul {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+nav {
+  background-color: blue;
+}
+
 body {
   background: red !important;
 }
