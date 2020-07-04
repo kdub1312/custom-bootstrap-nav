@@ -3,6 +3,9 @@ header {
         list-style-type: none;
         display: flex;
         flex-flow: row nowrap;
+        li {
+            color: #fff;
+        }
     }
 }
 nav {
