@@ -1,9 +1,3 @@
-@import 'base';
-@import 'components/_nav';
-
-body {
-    background: red !important;
-    p {
-        color: white !important;
-    }
-}
+@use 'base/_typography';
+@use 'base/_variables';
+@use 'components/_nav';

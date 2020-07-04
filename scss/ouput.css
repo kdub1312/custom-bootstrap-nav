@@ -1,3 +1,11 @@
+p {
+  font-size: 26px;
+}
+
+p {
+  text-transform: uppercase;
+}
+
 header ul {
   list-style-type: none;
   display: flex;
@@ -9,13 +17,6 @@ header ul li {
 
 nav {
   background-color: blue;
-}
-
-body {
-  background: red !important;
-}
-body p {
-  color: white !important;
 }
 
 /*# sourceMappingURL=ouput.css.map */

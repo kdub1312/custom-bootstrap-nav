@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["components/_nav.scss","input.scss"],"names":[],"mappings":"AACI;EACI;EACA;EACA;;AACA;EACI;;;AAIZ;EACI;;;ACRJ;EACI;;AACA;EACI","file":"ouput.css"}
+{"version":3,"sourceRoot":"","sources":["base/_typography.scss","base/_variables.scss","components/_nav.scss"],"names":[],"mappings":"AAAA;EACI;;;ACAJ;EACI;;;ACDA;EACI;EACA;EACA;;AACA;EACI;;;AAIZ;EACI","file":"ouput.css"}
